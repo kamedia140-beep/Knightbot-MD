@@ -11,6 +11,7 @@ const settings = {
   description: "This is a bot for managing group commands and automating tasks.",
   version: "3.0.7",
   updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  sessionId: 'kamedia140-beep-knightbot-md', // Session identifier
 };
 
 module.exports = settings;
